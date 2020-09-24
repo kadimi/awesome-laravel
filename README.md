@@ -3,6 +3,39 @@ Awesome Laravel
 
 A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packages](#packages) and [resources](#resources).  Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
+## Table of Contents
+
+* [Admin Tools/Panels](#user-content-admin-toolspanels)
+* [Algorithms/Data Structures](#user-content-algorithmsdata-structures)
+* [Authentication/Security](#user-content-authenticationsecurity)
+* [Boilerplate/CustomConfigurations](#user-content-boilerplatecustomized-configurations)
+* [Database/Eloquent/Models](#user-content-databaseeloquentmodels)
+* [Design Pattern Tools](#user-content-design-pattern-tools)
+* [Development Tools](#user-content-development-tools)
+* [E-commerce](#user-content-e-commerce)
+* [GIS/Mapping](#user-content-gismapping)
+* [Helpers/General](#user-content-helpersgeneral)
+* [JavaScript Framework Support](#user-content-javascript-framework-support)
+* [Third-Party API Support](#user-content-third-party-api-support)
+* [REST/Web Services](#user-content-restweb-services)
+* [Views](#user-content-views)
+* [Web Forms](#user-content-web-forms)
+* [WordPress Integration](#user-content-wordpress-integration)
+* [Tutorials (General)](#user-content-tutorials-general)
+* [Tut Series (Multi-part tutorials on Laravel basics)](#user-content-tutorial-series-multi-part-tutorials-on-laravel-basics)
+* [Tuto on Specific (and Frequently Occurring) Topics](#user-content-tutorials-on-specific-and-frequently-occurring-topics)
+* [Applications Built with La](#user-content-applications-built-with-laravel)
+* [Books](#user-content-books)
+* [References](#user-content-references)
+* [Example Applications](#user-content-example-applications)
+* [Blogs](#user-content-blogs)
+* [Forums and Groups](#user-content-forums-and-groups)
+* [Conferences, Meetups,User Groups](#user-content-conferences-meetups-and-user-groups)
+* [Newsletters](#user-content-newsletters)
+* [Job Sites/Postings](#user-content-job-sitespostings)
+* [Development Tools](#user-content-development-tools-1)
+* [Other](#user-content-other)
+
 ## Packages
 - [DuckDuckGo Packagist Search](https://duck.co/ia/view/packagist) - Search for Laravel packages from [DuckDuckGo](https://duckduckgo.com/) by including 'packagist' as first search term. \[06/29/2015\]
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
